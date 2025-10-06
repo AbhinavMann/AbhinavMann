@@ -109,8 +109,39 @@ Currently working at an MNC where I handle extensive data processing tasks and w
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbhinavMann&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavMann&layout=compact&theme=radical&hide_border=true)
+### 🚀 GitHub Activity Overview
+
+<!-- GitHub Stats Images (External Service) -->
+<div align="center" id="github-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhinavMann&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="400" onerror="this.style.display='none'; document.getElementById('fallback-stats').style.display='block';">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhinavMann&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="400" onerror="this.style.display='none'; document.getElementById('fallback-stats').style.display='block';">
+</div>
+
+<!-- Fallback Content (Shows when external stats fail to load) -->
+<div align="center" id="fallback-stats" style="display: none;">
+
+**📈 Profile Statistics**
+- 🏗️ **Repositories Created:** Building innovative projects
+- 💻 **Technologies:** SQL, Python, Bash
+- 🎯 **Focus Areas:** Data Analysis, Business Intelligence, Process Automation
+- 🚀 **Current Project:** LLM-Powered Report Automation
+
+**🏆 Achievements & Activity**
+- 🔧 **Problem Solver:** Developing automated solutions for data processing
+- 📊 **Data Expert:** Experienced in handling large-scale datasets
+- 🤖 **Tech Innovator:** Exploring AI/ML applications in business processes
+- 🌟 **Continuous Learner:** Always expanding technical knowledge
+
+</div>
+
+<!-- Repository Count Badge -->
+[![Repository Count](https://img.shields.io/badge/Repositories-Building_Portfolio-blue?style=flat&logo=github&logoColor=white)](#)
+
+<!-- Contribution Activity -->
+<div align="center">
+  <p><strong>🔥 Recent Activity:</strong> Active development on data automation projects</p>
+  <p><strong>📝 Latest Focus:</strong> Integrating LLMs for intelligent report generation</p>
+</div>
 
 </div>
 
